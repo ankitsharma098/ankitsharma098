@@ -1,64 +1,68 @@
-# 👋 Hi, I'm Ankit Sharma
+<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+<h3 align="center">A passionate Flutter Developer and Computer Science Engineering Student</h3>
 
-🚀 Flutter Developer | 💻 Full Stack Enthusiast | 🎓 B.Tech Computer Science Student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma" /> </p>
 
-## 🎯 About Me
-I'm a passionate developer currently pursuing my B.Tech in Computer Science and Engineering at IIMT Engineering College (2021-2025). I specialize in Flutter development and have a keen interest in building user-centric mobile applications.
+🔭 I'm currently working at **Metaphile Pvt. Ltd** as Flutter Developer Intern
 
-## 💼 Professional Experience
+🌱 I'm currently learning **Advanced Flutter Development and Web Technologies**
 
-### Flutter Developer Intern at Metaphile Pvt. Ltd (Apr 2024 - Present)
-- 📱 Developed an ERP-based Flutter application that improved educational institution workflows by 30%
-- 🎤 Integrated voice command features using Snowboy, boosting user engagement by 40%
-- 🔄 Implemented RESTful API integration with Firebase backend
-- 📨 Built robust background services for notifications and data synchronization
+👨‍💻 All of my projects are available at [portfolio-nine-gold-35.vercel.app](https://portfolio-nine-gold-35.vercel.app)
 
-## 🛠️ Technical Skills
+📫 How to reach me **ankits45987@gmail.com**
 
-### Languages & Frameworks
-- Flutter/Dart
-- Python
-- Java
-- C
-- HTML/CSS
-- JavaScript
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankitsharma098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsharma" height="30" width="40" /></a>
+</p>
 
-### Tools & Technologies
-- Firebase
-- RESTful APIs
-- Git & GitHub
-- UI/UX Design
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-## 🏆 Notable Projects
+<h3 align="left">🏆 Notable Projects:</h3>
 
-### ScreenSense (Jul 2024 - Aug 2024)
-- 📊 Digital well-being app with usage analytics
-- ⚡ Optimized background tasks using WorkManager
-- 📈 Achieved 40% increase in daily active users
-- 🔋 Reduced battery consumption by 25%
+- **ERP-Based Educational App**
+  - Full-scale Flutter app improving educational workflows by 30%
+  - Integrated voice commands and real-time data sync
+  - Reduced manual data entry errors by 50%
 
-### AI-Powered ChatBot (Oct 2023 - Nov 2023)
-- 🤖 Integrated Gemini API for advanced AI functionality
-- 🖼️ Implemented image-text analysis
-- 🗣️ Featured voice synthesis with audio download capability
+- **ScreenSense - Digital Wellbeing App**
+  - Cross-platform app with usage tracking features
+  - Implemented WorkManager for efficient background tasks
+  - Increased daily active users by 40%
 
-### Portfolio Web Application (Dec 2023 - Feb 2023)
-- 💻 Responsive design using CSS Grid and Flexbox
-- ⚡ Interactive UI with vanilla JavaScript
-- 📱 Cross-device compatibility
+- **AI-Powered ChatBot**
+  - Integrated Gemini API for advanced AI interactions
+  - Image-text analysis and voice synthesis features
 
-## 🏅 Achievements
-- 🏆 Finalist in Smart India Hackathon 2023
-- 🎓 Secured 94% in Higher Secondary Education
-- ✅ Certified by IIT Kanpur in Full Stack Web Development
-- 🎯 HackerRank certified in Python and Problem Solving
+- **Portfolio Website**
+  - Responsive design with vanilla JavaScript
+  - Modern UI/UX implementation
 
-## 📫 Let's Connect
-- Email: ankits45987@gmail.com
-- Phone: 7302104299
-- LinkedIn: [Ankit Sharma](https://linkedin.com/in/Ankitsharma)
-- GitHub: [Ankit-sharma](https://github.com/Ankit-sharma)
+<h3 align="left">🎓 Education:</h3>
 
----
+- **B.Tech in Computer Science and Engineering**
+  - IIMT Engineering College (2021-2025)
+  - Meerut, India
 
-💡 *Always eager to contribute to innovative projects and learn new technologies!*
+<h3 align="left">🏅 Achievements:</h3>
+
+- Finalist in Smart India Hackathon 2023
+- Full Stack Web Development Certification from IIT Kanpur
+- HackerRank Certifications in Problem-Solving and Python
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma&show_icons=true&locale=en&layout=compact" alt="ankitsharma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&locale=en" alt="ankitsharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharma" alt="ankitsharma" /></p>
