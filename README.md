@@ -12,8 +12,7 @@ I'm a passionate Full Stack Developer specializing in Flutter and MERN stack, cu
 📫 **Let's Connect**
 - Portfolio: [View My Work](https://portfolio-nine-gold-35.vercel.app)
 - Email: ankits45987@gmail.com
-- [![LinkedIn]<a href="https://www.linkedin.com/in/ankit-sharma-037379223/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="15" height="15"/>
+- LinkedIn: <a href="https://www.linkedin.com/in/ankit-sharma-037379223/">Ankit Sharma
 </a>
 
 ## 💻 Technical Skills
@@ -28,7 +27,7 @@ I'm a passionate Full Stack Developer specializing in Flutter and MERN stack, cu
 ### Full Stack Development
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="25" height="25"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="25" height="25" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="25" height="25"/>
 </p>
 
@@ -97,7 +96,6 @@ IIMT Engineering College (2021-2025)
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&hide=contribs,prs&theme=dark" alt="GitHub Stats" width="48%"/>
 </div>
 
 ---
