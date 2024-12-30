@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma" /> </p>
 
-🔭 I'm currently working at **Metaphile Pvt. Ltd** as Flutter Developer Intern
+🔭 I have done my internship at **Metaphile Pvt. Ltd** as Flutter Developer Intern
 
 🌱 I'm currently learning **Advanced Flutter Development and Web Technologies**
 
