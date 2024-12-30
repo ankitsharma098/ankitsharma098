@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ankit Sharma
+Copy# Hi 👋, I'm Ankit Sharma
 ### A Flutter Developer & CS Engineering Student
 
 🔭 Ex-Flutter Developer Intern at **Metaphile Pvt. Ltd**
@@ -7,18 +7,19 @@
 📫 Contact: ankits45987@gmail.com
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ankit-sharma-037379223/)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg){width=25 height=25}](https://www.linkedin.com/in/ankit-sharma-037379223/)
 
 ### Tech Stack:
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
-![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)
-![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="25" height="25"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="25" height="25"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/>
+
 
 ### 🏆 Notable Projects:
 
@@ -47,5 +48,5 @@ IIMT Engineering College (2021-2025)
 - IIT Kanpur Full Stack Development Certification
 - HackerRank Problem-Solving & Python Certifications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&hide=contribs,prs)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&hide=contribs,prs" alt="GitHub Stats" width="350"/>
