@@ -12,7 +12,9 @@ I'm a passionate Full Stack Developer specializing in Flutter and MERN stack, cu
 📫 **Let's Connect**
 - Portfolio: [View My Work](https://portfolio-nine-gold-35.vercel.app)
 - Email: ankits45987@gmail.com
-- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg){width=20 height=20}](https://www.linkedin.com/in/ankit-sharma-037379223/)
+- [![LinkedIn]<a href="https://www.linkedin.com/in/ankit-sharma-037379223/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="15" height="15"/>
+</a>
 
 ## 💻 Technical Skills
 
