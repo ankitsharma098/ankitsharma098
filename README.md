@@ -1,68 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate Flutter Developer and Computer Science Engineering Student</h3>
+# Hi 👋, I'm Ankit Sharma
+### A Flutter Developer & CS Engineering Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma" /> </p>
+🔭 Ex-Flutter Developer Intern at **Metaphile Pvt. Ltd**
+🌱 Focusing on Advanced Flutter & Web Technologies
+👨‍💻 Portfolio: [portfolio-nine-gold-35.vercel.app](https://portfolio-nine-gold-35.vercel.app)
+📫 Contact: ankits45987@gmail.com
 
-🔭 I have done my internship at **Metaphile Pvt. Ltd** as Flutter Developer Intern
+### Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ankit-sharma-037379223/)
 
-🌱 I'm currently learning **Advanced Flutter Development and Web Technologies**
+### Tech Stack:
+![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
+![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
-👨‍💻 All of my projects are available at [portfolio-nine-gold-35.vercel.app](https://portfolio-nine-gold-35.vercel.app)
-
-📫 How to reach me **ankits45987@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ankit-sharma-037379223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsharma" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">🏆 Notable Projects:</h3>
+### 🏆 Notable Projects:
 
 - **ERP-Based Educational App**
-  - Full-scale Flutter app improving educational workflows by 30%
-  - Integrated voice commands and real-time data sync
-  - Reduced manual data entry errors by 50%
+  - Flutter app improving educational workflows by 30%
+  - Voice commands & real-time sync
+  - 50% reduction in data entry errors
 
 - **ScreenSense - Digital Wellbeing App**
-  - Cross-platform app with usage tracking features
-  - Implemented WorkManager for efficient background tasks
-  - Increased daily active users by 40%
+  - Usage tracking with WorkManager
+  - 40% increase in daily active users
 
 - **AI-Powered ChatBot**
-  - Integrated Gemini API for advanced AI interactions
-  - Image-text analysis and voice synthesis features
+  - Gemini API integration
+  - Image analysis & voice synthesis
 
 - **Portfolio Website**
-  - Responsive design with vanilla JavaScript
-  - Modern UI/UX implementation
+  - Responsive design with vanilla JS
 
-<h3 align="left">🎓 Education:</h3>
+### 🎓 Education:
+B.Tech in Computer Science Engineering
+IIMT Engineering College (2021-2025)
 
-- **B.Tech in Computer Science and Engineering**
-  - IIMT Engineering College (2021-2025)
-  - Meerut, India
+### 🏅 Achievements:
+- Smart India Hackathon 2023 Finalist
+- IIT Kanpur Full Stack Development Certification
+- HackerRank Problem-Solving & Python Certifications
 
-<h3 align="left">🏅 Achievements:</h3>
-
-- Finalist in Smart India Hackathon 2023
-- Full Stack Web Development Certification from IIT Kanpur
-- HackerRank Certifications in Problem-Solving and Python
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma&show_icons=true&locale=en&layout=compact" alt="ankitsharma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&locale=en" alt="ankitsharma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharma" alt="ankitsharma" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&hide=contribs,prs)
