@@ -89,7 +89,7 @@ Smart screen time management solution with advanced analytics:
 
 ## 👨‍💻 Professional Experience
 
-**Flutter Developer Intern | Metaphile Pvt. Ltd.** *(June 2024 - August 2024)*
+**Flutter Developer  | Metaphile Pvt. Ltd.** *(June 2024 - August 2024)*
 - Engineered a full-scale ERP-based Flutter application for educational institutions
 - Implemented RESTful API integration using Dio package for robust data synchronization
 - Developed voice command navigation using Snowboy for hands-free operation
