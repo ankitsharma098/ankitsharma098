@@ -1,14 +1,15 @@
 # Hi there! I'm Ankit Sharma 👋
 
-## 💼 Full Stack Developer | Mobile App Specialist | CS Engineering Graduate 2025
+## 💼 Flutter Developer | Software Engineer | CS Engineering Graduate
 
 I craft impactful digital solutions that solve real-world problems. With expertise in Flutter, MERN stack, and cross-platform development, I transform ideas into scalable, user-centric applications.
 
 ## 🚀 What I Bring to the Table
 
-- 📱 **Mobile Development:** Flutter/Dart expert with hands-on Firebase integration
-- 🌐 **Full Stack Development:** MERN stack implementation (MongoDB, Express.js, React, Node.js)
-- 🔧 **Technical Leadership:** Proven track record of delivering complex projects on time
+- 📱 **Mobile Development:** Flutter/Dart expert — production apps with 10,000+ active users
+- 🌐 **Full Stack Development:** Node.js, Express.js, MongoDB, Firebase
+- ☁️ **Cloud & DevOps:** AWS, Google Cloud Console, CI/CD pipelines, Google Play Store & App Store
+- 🔧 **Architecture:** BLoC state management, clean architecture, dependency injection
 - 🎯 **Problem Solver:** Passionate about finding elegant solutions to challenging problems
 
 ## 💻 Technical Skills
@@ -21,7 +22,7 @@ I craft impactful digital solutions that solve real-world problems. With experti
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 10px"/>
   </p>
   
-  <h3>Full Stack Development</h3>
+  <h3>Backend & Databases</h3>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFINSMb4CTm1MlzpqbjSpUa78XfYvYOy4n2Q&s" alt="Express.js" width="40" height="40" />&nbsp;
@@ -39,34 +40,54 @@ I craft impactful digital solutions that solve real-world problems. With experti
   </p>
 </div>
 
+## 👨‍💻 Professional Experience
+
+**Flutter Developer | EVeez** *(November 2025 – Present)*
+- Leading development and maintenance of a production Flutter application with 400+ daily active users
+- Managing production environments, build flavors, and CI/CD release pipelines for Google Play Store deployments
+- Developing core features for an e-bike rental platform: vehicle booking, ride tracking, and weekly payment cycle management
+- Monitoring and optimizing app performance and stability to support growing user traffic
+
+**Software Engineer (Mobile & Backend) | 3FI Tech Communications Pvt. Ltd.** *(January 2025 – November 2025)*
+- Developed and delivered 3+ production applications across crypto, fintech, and e-commerce domains using Flutter
+- Built a secure cryptocurrency trading platform with real-time market data integration serving 10,000+ active users
+- Integrated multiple payment methods including UPI, digital wallets, and credit/debit cards
+- Implemented scalable solutions for transaction handling, user flows, and real-time updates
+
+**Flutter Developer | Metaphile Pvt. Ltd.** *(June 2024 – November 2024)*
+- Engineered a full-scale ERP-based Flutter application for educational institutions, improving workflows by 30%
+- Implemented RESTful API integration using Dio package for robust data synchronization with Node.js + MongoDB backend
+- Developed voice command navigation using Snowboy for hands-free operation, increasing user engagement by 40%
+- Achieved 50% reduction in manual data entry errors through intelligent form validation
+
 ## 🏆 Featured Projects
+
+### Bitesize Golf – Golf Coaching & Learning Platform *(Dec 2025 – Mar 2026)*
+*Flutter, Dart, Firebase, Firestore, Firebase Storage*
+
+Full-stack cross-platform golf coaching app with a dual-role system (Coach & Pupil):
+- 🔹 Clean architecture with BLoC state management and dependency injection (Injectable + GetIt)
+- 🔹 Multi-tier subscription and payment system integrated with PayPal (sandbox/production toggling)
+- 🔹 Structured curriculum with multi-level lessons, quizzes, challenges, and radar-based scoring (Chip & Putt)
+- 🔹 Visual performance report cards tracking student skills progression
+
+### Career Bridge – Empowering Disabled Candidates *(Nov 2024 – Apr 2025)*
+*Flutter, Dart, Node.js, Express.js, MongoDB, Firebase, Socket.IO*
+
+Inclusive job platform connecting skilled candidates with disabilities to employers:
+- 🔹 Accessible job search and application workflows tailored for disabled candidates
+- 🔹 Real-time direct messaging system between employers and candidates via Socket.IO
+- 🔹 Integrated motivational blog featuring success stories of disabled professionals
+- 🔹 Secure, accessible UI/UX designed with accessibility-first principles
 
 ### ERP-Based Educational App | Metaphile Pvt. Ltd.
 *Flutter, Node.js, MongoDB, Snowboy*
 
-A comprehensive educational workflow solution that achieved:
+A comprehensive educational workflow solution:
 - 🔹 30% improvement in institutional workflow efficiency
-- 🔹 Seamless integration of voice command navigation using Snowboy
+- 🔹 Voice command navigation using Snowboy for hands-free NLP capabilities
 - 🔹 Real-time data synchronization between Flutter frontend and Node.js backend
-- 🔹 Implementation of background services for push notifications with WorkManager
-
-### Career Bridge - Platform for Disabled Candidates
-*Flutter, Node.js, Express.js, MongoDB*
-
-Inclusive job platform connecting skilled candidates with disabilities to employers:
-- 🔹 Streamlined application process with accessibility-first design
-- 🔹 Secure employer-candidate communication channels
-- 🔹 Integrated motivational success stories section
-- 🔹 Optimized UI/UX for various accessibility requirements
-
-### Inventory Management System
-*Flutter, Firebase, Node.js*
-
-Comprehensive inventory solution with intuitive UI for efficient stock management:
-- 🔹 Real-time inventory tracking with detailed item categorization
-- 🔹 Advanced search and filter capabilities for quick item location
-- 🔹 Batch operations for bulk inventory updates and adjustments
-- 🔹 Data visualization for inventory trends and stock level alerts
+- 🔹 Background services for push notifications and data syncing
 
 ### AI-Powered Chatbot
 *Flutter, Gemini API, Firebase*
@@ -75,9 +96,9 @@ Intelligent conversation assistant with multimedia capabilities:
 - 🔹 Seamless integration with Gemini API for natural language processing
 - 🔹 Advanced image analysis and recognition functionality
 - 🔹 Text-to-voice conversion with local storage for generated responses
-- 🔹 Context-aware response system that learns from user interactions
+- 🔹 Context-aware response system
 
-### ScreenSense - Digital Wellbeing App
+### ScreenSense – Digital Wellbeing App
 *Flutter, MERN Stack*
 
 Smart screen time management solution with advanced analytics:
@@ -86,23 +107,14 @@ Smart screen time management solution with advanced analytics:
 - 🔹 Comprehensive analytics dashboard powered by MongoDB
 - 🔹 40% increase in user productivity through intelligent alerts
 
-
-## 👨‍💻 Professional Experience
-
-**Flutter Developer  | Metaphile Pvt. Ltd.** *(June 2024 - August 2024)*
-- Engineered a full-scale ERP-based Flutter application for educational institutions
-- Implemented RESTful API integration using Dio package for robust data synchronization
-- Developed voice command navigation using Snowboy for hands-free operation
-- Achieved 50% reduction in data entry errors through intelligent form validation
-
 ## 🎓 Education & Achievements
 
 **Bachelor of Technology in Computer Science Engineering**  
-IIMT Engineering College *(2021-2025)*
+IIMT Engineering College *(Aug 2021 – Jul 2025)* | CGPA: 8.0/10
 
-- 🏆 **Smart India Hackathon 2023 Finalist** - Developed a faculty performance assessment app in 48 hours
-- 📜 **IIT Kanpur Full Stack Development Certification**
-- ⭐ **HackerRank Certifications:** Problem Solving (Advanced), Python Programming, Java Programming
+- 🏆 **Smart India Hackathon 2023 Finalist** — Developed a faculty performance assessment app in 48 hours
+- 📜 **IIT Kanpur Full Stack Web Development Certification**
+- ⭐ **HackerRank Certifications:** Problem Solving, Python Programming
 
 ## 📫 Connect With Me
 
@@ -120,4 +132,4 @@ IIMT Engineering College *(2021-2025)*
 </div>
 
 ---
-✨ *Currently seeking Full Stack Developer opportunities where I can contribute my technical expertise and innovative mindset!*
+✨ *Currently building production-grade Flutter apps at EVeez — open to exciting Flutter & full-stack opportunities!*
