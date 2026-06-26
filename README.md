@@ -1,16 +1,17 @@
 # Hi there! I'm Ankit Sharma 👋
 
-## 💼 Flutter Developer | Software Engineer | CS Engineering Graduate
+## 💼 Full Stack Mobile Developer | Flutter & Node.js | CS Engineering Graduate
 
-I craft impactful digital solutions that solve real-world problems. With expertise in Flutter, MERN stack, and cross-platform development, I transform ideas into scalable, user-centric applications.
+I build production mobile apps end-to-end — Flutter on the frontend, Node.js/Express on the backend — and own them from architecture through Play Store/App Store release. I've shipped across fintech, crypto, e-commerce, and ERP, usually as the primary or sole developer.
 
 ## 🚀 What I Bring to the Table
 
-- 📱 **Mobile Development:** Flutter/Dart expert — production apps with 10,000+ active users
-- 🌐 **Full Stack Development:** Node.js, Express.js, MongoDB, Firebase
-- ☁️ **Cloud & DevOps:** AWS, Google Cloud Console, CI/CD pipelines, Google Play Store & App Store
-- 🔧 **Architecture:** BLoC state management, clean architecture, dependency injection
-- 🎯 **Problem Solver:** Passionate about finding elegant solutions to challenging problems
+- 📱 **Mobile Development:** Flutter/Dart — production apps serving 10,000+ active users
+- 🌐 **Backend Development:** Node.js, Express.js, MongoDB, PostgreSQL, REST API design
+- 🏗️ **System Architecture:** Microservices design, database schema design, API documentation
+- ☁️ **Cloud & DevOps:** AWS, Google Cloud Console, CI/CD pipelines, Play Store & App Store release management
+- 🔧 **Mobile Architecture:** BLoC state management, clean architecture, dependency injection (Injectable + GetIt)
+- 🎯 **Solo Execution:** I take a product from idea to shipped, end-to-end
 
 ## 💻 Technical Skills
 
@@ -21,12 +22,13 @@ I craft impactful digital solutions that solve real-world problems. With experti
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin: 10px"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 10px"/>
   </p>
-  
+
   <h3>Backend & Databases</h3>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFINSMb4CTm1MlzpqbjSpUa78XfYvYOy4n2Q&s" alt="Express.js" width="40" height="40" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </p>
 
   <h3>Web Technologies & Tools</h3>
@@ -42,25 +44,33 @@ I craft impactful digital solutions that solve real-world problems. With experti
 
 ## 👨‍💻 Professional Experience
 
-**Flutter Developer | EVeez** *(November 2025 – Present)*
-- Leading development and maintenance of a production Flutter application with 400+ daily active users
-- Managing production environments, build flavors, and CI/CD release pipelines for Google Play Store deployments
-- Developing core features for an e-bike rental platform: vehicle booking, ride tracking, and weekly payment cycle management
-- Monitoring and optimizing app performance and stability to support growing user traffic
+**Full Stack Mobile Developer | EVeez** *(November 2025 – Present)*
+- Leading end-to-end development of a production e-bike rental platform (400+ DAU) — both the Flutter mobile app and the Node.js/Express backend
+- Own the full stack: Flutter client architecture + Node.js/Express REST APIs for vehicle booking, ride tracking, and weekly payment cycles
+- Managing CI/CD pipelines, build flavors, and production deployments across mobile and backend services
+- Monitoring and optimizing performance across the Flutter frontend and Node.js backend to support growing user traffic
 
-**Software Engineer (Mobile & Backend) | 3FI Tech Communications Pvt. Ltd.** *(January 2025 – November 2025)*
-- Developed and delivered 3+ production applications across crypto, fintech, and e-commerce domains using Flutter
-- Built a secure cryptocurrency trading platform with real-time market data integration serving 10,000+ active users
+**Mobile Developer | 3FI Tech Communications Pvt. Ltd.** *(January 2025 – November 2025)*
+- Developed 3+ production-ready mobile applications across crypto, fintech, and e-commerce, working with Flutter and Node.js backend services
+- Built a secure cryptocurrency trading platform with real-time market data serving 10,000+ active users
 - Integrated multiple payment methods including UPI, digital wallets, and credit/debit cards
-- Implemented scalable solutions for transaction handling, user flows, and real-time updates
+- Collaborated on API design and backend integration for real-time trading data and payment processing
 
 **Flutter Developer | Metaphile Pvt. Ltd.** *(June 2024 – November 2024)*
 - Engineered a full-scale ERP-based Flutter application for educational institutions, improving workflows by 30%
-- Implemented RESTful API integration using Dio package for robust data synchronization with Node.js + MongoDB backend
+- Built Node.js/Express REST APIs with MongoDB backend, enabling real-time data sync and reducing manual entry errors by 50%
 - Developed voice command navigation using Snowboy for hands-free operation, increasing user engagement by 40%
-- Achieved 50% reduction in manual data entry errors through intelligent form validation
 
 ## 🏆 Featured Projects
+
+### SparkWash – On-Demand Car Wash Platform *(Independent Project)*
+*Node.js, Express, PostgreSQL, Flutter*
+
+Designed and built a full microservices backend for an on-demand car wash marketplace, solo, from architecture to implementation:
+- 🔹 8 independent microservices across booking, payments, scheduling, and user management
+- 🔹 191 REST API endpoints with complete API reference documentation
+- 🔹 Full database schema design across 8 PostgreSQL databases
+- 🔹 Tech stack and cost-projection documentation for production scaling
 
 ### Bitesize Golf – Golf Coaching & Learning Platform *(Dec 2025 – Mar 2026)*
 *Flutter, Dart, Firebase, Firestore, Firebase Storage*
@@ -75,10 +85,9 @@ Full-stack cross-platform golf coaching app with a dual-role system (Coach & Pup
 *Flutter, Dart, Node.js, Express.js, MongoDB, Firebase, Socket.IO*
 
 Inclusive job platform connecting skilled candidates with disabilities to employers:
-- 🔹 Accessible job search and application workflows tailored for disabled candidates
+- 🔹 REST APIs in Node.js/Express.js with MongoDB for job listings and applications
 - 🔹 Real-time direct messaging system between employers and candidates via Socket.IO
-- 🔹 Integrated motivational blog featuring success stories of disabled professionals
-- 🔹 Secure, accessible UI/UX designed with accessibility-first principles
+- 🔹 Accessible job search workflows designed with accessibility-first principles
 
 ### ERP-Based Educational App | Metaphile Pvt. Ltd.
 *Flutter, Node.js, MongoDB, Snowboy*
@@ -87,7 +96,6 @@ A comprehensive educational workflow solution:
 - 🔹 30% improvement in institutional workflow efficiency
 - 🔹 Voice command navigation using Snowboy for hands-free NLP capabilities
 - 🔹 Real-time data synchronization between Flutter frontend and Node.js backend
-- 🔹 Background services for push notifications and data syncing
 
 ### AI-Powered Chatbot
 *Flutter, Gemini API, Firebase*
@@ -96,7 +104,6 @@ Intelligent conversation assistant with multimedia capabilities:
 - 🔹 Seamless integration with Gemini API for natural language processing
 - 🔹 Advanced image analysis and recognition functionality
 - 🔹 Text-to-voice conversion with local storage for generated responses
-- 🔹 Context-aware response system
 
 ### ScreenSense – Digital Wellbeing App
 *Flutter, MERN Stack*
@@ -105,11 +112,10 @@ Smart screen time management solution with advanced analytics:
 - 🔹 Precise app usage tracking with custom background services
 - 🔹 7-day usage history and app usage limit enforcement
 - 🔹 Comprehensive analytics dashboard powered by MongoDB
-- 🔹 40% increase in user productivity through intelligent alerts
 
 ## 🎓 Education & Achievements
 
-**Bachelor of Technology in Computer Science Engineering**  
+**Bachelor of Technology in Computer Science Engineering**
 IIMT Engineering College *(Aug 2021 – Jul 2025)* | CGPA: 8.0/10
 
 - 🏆 **Smart India Hackathon 2023 Finalist** — Developed a faculty performance assessment app in 48 hours
@@ -132,4 +138,4 @@ IIMT Engineering College *(Aug 2021 – Jul 2025)* | CGPA: 8.0/10
 </div>
 
 ---
-✨ *Currently building production-grade Flutter apps at EVeez — open to exciting Flutter & full-stack opportunities!*
+✨ *Currently building full-stack mobile apps (Flutter + Node.js) at EVeez — open to Full Stack Mobile Developer opportunities!*
