@@ -58,11 +58,6 @@ I build production mobile apps end-to-end — Flutter on the frontend, Node.js/E
 - Integrated multiple payment methods including UPI, digital wallets, and credit/debit cards
 - Collaborated on API design and backend integration for real-time trading data and payment processing
 
-**Flutter Developer | Metaphile Pvt. Ltd.** *(June 2024 – November 2024)*
-- Engineered a full-scale ERP-based Flutter application for educational institutions, improving workflows by 30%
-- Built Node.js/Express REST APIs with MongoDB backend, enabling real-time data sync and reducing manual entry errors by 50%
-- Developed voice command navigation using Snowboy for hands-free operation, increasing user engagement by 40%
-
 ## 🏆 Featured Projects
 
 ### SparkWash – On-Demand Car Wash Platform *(Independent Project)*
