@@ -86,7 +86,7 @@ Inclusive job platform connecting skilled candidates with disabilities to employ
 - 🔹 Real-time direct messaging system between employers and candidates via Socket.IO
 - 🔹 Accessible job search workflows designed with accessibility-first principles
 
-### ERP-Based Educational App | Metaphile Pvt. Ltd.
+### ERP-Based Educational App 
 *Flutter, Node.js, MongoDB, Snowboy*
 
 A comprehensive educational workflow solution:
