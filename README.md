@@ -1,6 +1,6 @@
 # Hi there! I'm Ankit Sharma 👋
 
-## 💼 Full Stack Mobile Developer | Flutter & Node.js | CS Engineering Graduate
+## 💼 Full Stack Mobile Developer | Flutter & Node.js | Shipping production apps for 10K+ users | SIH '23 Grand Finalist
 
 I build production mobile apps end-to-end — Flutter on the frontend, Node.js/Express on the backend — and own them from architecture through Play Store/App Store release. I've shipped across fintech, crypto, e-commerce, and ERP, usually as the primary or sole developer.
 
@@ -44,13 +44,15 @@ I build production mobile apps end-to-end — Flutter on the frontend, Node.js/E
 
 ## 👨‍💻 Professional Experience
 
-**Full Stack Mobile Developer | EVeez** *(November 2025 – Present)*
-- Leading end-to-end development of a production e-bike rental platform (400+ DAU) — both the Flutter mobile app and the Node.js/Express backend
+**Full Stack Mobile Developer | EVeez** *(November 2025 – Present · 9 mos)*
+*Gurugram, Haryana, India · On-site*
+- Leading end-to-end development of a production e-bike rental platform (10K+ DAU) — both the Flutter mobile app and the Node.js/Express backend
 - Own the full stack: Flutter client architecture + Node.js/Express REST APIs for vehicle booking, ride tracking, and weekly payment cycles
 - Managing CI/CD pipelines, build flavors, and production deployments across mobile and backend services
 - Monitoring and optimizing performance across the Flutter frontend and Node.js backend to support growing user traffic
 
-**Mobile Developer | 3FI Tech Communications Pvt. Ltd.** *(January 2025 – November 2025)*
+**Mobile Application Developer | 3FI Tech Communications Pvt. Ltd.** *(September 2024 – November 2025 · 1 yr 3 mos)*
+*Noida, Uttar Pradesh, India · On-site*
 - Developed 3+ production-ready mobile applications across crypto, fintech, and e-commerce, working with Flutter and Node.js backend services
 - Built a secure cryptocurrency trading platform with real-time market data serving 10,000+ active users
 - Integrated multiple payment methods including UPI, digital wallets, and credit/debit cards
@@ -116,7 +118,7 @@ Smart screen time management solution with advanced analytics:
 ## 🎓 Education & Achievements
 
 **Bachelor of Technology in Computer Science Engineering**
-IIMT Engineering College *(Aug 2021 – Jul 2025)* | CGPA: 8.0/10
+IIMT Engineering College, Meerut *(Sep 2021 – Jul 2025)* | Grade: 8.0/10
 
 - 🏆 **Smart India Hackathon 2023 Finalist** — Developed a faculty performance assessment app in 48 hours
 - 📜 **IIT Kanpur Full Stack Web Development Certification**
